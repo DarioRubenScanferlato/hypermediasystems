@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+
+# Python bytecode
+__pycache__/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment variables file
+.env
+
+# Compiled Python files
+*.pyc
+
+# Dependency directories
+/node_modules/
+/bower_components/
+
+# Compiled JavaScript
+*.min.js
+
+# Temporary files
+*~
+.DS_Store
